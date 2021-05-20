@@ -13,7 +13,7 @@ Link has to be directly to the main page of the story.
 If you don't provide a filename it will by default be "Downloaded Wattpad Story"
 
 #### Things I might do in the future
-Automatially setting the filename to the story name 
-Getting to the main link from chapter links
+Automatially setting the filename to the story name  
+Getting to the main link from chapter links  
 Saving the story directly into epub  
-Add tests
+Add tests  
